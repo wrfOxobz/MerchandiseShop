@@ -1,0 +1,14 @@
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\bin\Debug\MerchandiseShop.exe.config
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\bin\Debug\MerchandiseShop.exe
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\bin\Debug\MerchandiseShop.pdb
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MerchandiseShop.csprojAssemblyReference.cache
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MainWindow.g.cs
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\App.g.cs
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MerchandiseShop_MarkupCompile.cache
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MerchandiseShop_MarkupCompile.lref
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MainWindow.baml
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MerchandiseShop.g.resources
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MerchandiseShop.Properties.Resources.resources
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MerchandiseShop.csproj.GenerateResource.cache
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MerchandiseShop.exe
+C:\Users\wahid\source\repos\MerchandiseShop\MerchandiseShop\obj\Debug\MerchandiseShop.pdb
